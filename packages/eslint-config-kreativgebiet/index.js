@@ -6,5 +6,8 @@ module.exports = {
     './rules/import.js',
     './rules/react.js',
   ],
+  plugins: [
+    'eslint-plugin-react',
+  ],
   rules: {},
 };
