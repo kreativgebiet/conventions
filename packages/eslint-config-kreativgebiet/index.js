@@ -2,9 +2,9 @@
 module.exports = {
   extends: [
     'eslint-config-airbnb',
-    './rules/common',
-    './rules/import',
-    './rules/react',
+    './rules/common.js',
+    './rules/import.js',
+    './rules/react.js',
   ],
   rules: {},
 };
