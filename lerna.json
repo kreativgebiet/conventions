@@ -1,7 +1,9 @@
 {
   "lerna": "2.0.0",
+  "version": "0.0.0",
   "packages": [
     "packages/eslint-config-kreativgebiet",
     "packages/stylelint-config-kreativgebiet"
-  ]
+  ],
+  "npmClient": "yarn"
 }
