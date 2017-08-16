@@ -1,6 +1,8 @@
 {
   "lerna": "2.0.0",
   "packages": [
-    "packages/*"
-  ]
+    "packages/eslint-config-kreativgebiet",
+    "packages/stylelint-config-kreativgebiet"
+  ],
+  "version": "0.1.1"
 }
