@@ -1,0 +1,12 @@
+{
+  "name": "stylelint-config-kreativgebiet",
+  "version": "0.1.0",
+  "description": "Stylelint conventions for use at Kreativgebiet",
+  "main": "index.js",
+  "repository": "github.com/kreativgebiet/conventions",
+  "author": "Nick Schmidt <nick@kreativgebiet.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-recommended": "^1.0.0"
+  }
+}
