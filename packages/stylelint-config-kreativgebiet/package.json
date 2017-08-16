@@ -6,7 +6,14 @@
   "repository": "github.com/kreativgebiet/conventions",
   "author": "Nick Schmidt <nick@kreativgebiet.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "tape test/*"
+  },
   "dependencies": {
     "stylelint-config-recommended": "^1.0.0"
+  },
+  "devDependencies": {
+    "stylelint": "^8.0.0",
+    "tape": "^4.8.0"
   }
 }
