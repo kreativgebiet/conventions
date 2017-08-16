@@ -3,6 +3,5 @@
   "packages": [
     "packages/eslint-config-kreativgebiet",
     "packages/stylelint-config-kreativgebiet"
-  ],
-  "version": "0.1.1"
+  ]
 }
