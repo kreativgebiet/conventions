@@ -1,0 +1,9 @@
+{
+  "name": "@kreativgebiet/conventions",
+  "scripts": {
+    "push": "lerna publish"
+  },
+  "devDependencies": {
+    "lerna": "^2.0.0"
+  }
+}
